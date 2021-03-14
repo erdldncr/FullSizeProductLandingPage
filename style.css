@@ -43,4 +43,35 @@ body{
     margin-top: 20px;
     
 }
+#showcase a:hover{
+    background-color: #a52a2a;
+    color: #ffffff;
+}
 
+#section-a{
+    padding: 20px;
+    background-color: #926239;
+    color: #ffffff;
+    text-align: center;
+}
+#section-b{
+    padding: 20px;
+    background-color:#f4f4f4;
+    text-align: center;
+}
+#section-c{
+    display: flex;
+    padding: 20px;
+    background-color:#f4f4f4;
+    text-align: center;
+}
+#section-c div{
+    padding: 20px;
+}
+#section-c .box-1, #section-c .box-3{
+    background-color: #926239;
+    color: #ffffff;
+}
+#section-c .box-2{
+    background: #f9f9f9;
+}
